@@ -16,3 +16,6 @@
 [submodule "themes/berlin"]
 	path = themes/berlin
 	url = git://github.com/omeka/theme-berlin.git
+[submodule "plugins/Html5Media"]
+	path = plugins/Html5Media
+	url = https://github.com/zerocrates/Html5Media.git
