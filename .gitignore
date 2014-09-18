@@ -18,8 +18,8 @@
 /application/tests/_files/temp/
 
 # Plugins and themes
-/plugins/
-/themes/
+# /plugins/
+# /themes/
 
 # Files
 /files/original/*
